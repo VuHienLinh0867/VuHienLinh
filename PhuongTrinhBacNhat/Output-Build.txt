@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: PhuongTrinhBacNhat, Configuration: Debug Any CPU ------
+1>  PhuongTrinhBacNhat -> C:\Users\Admin\source\repos\PhuongTrinhBacNhat\PhuongTrinhBacNhat\bin\Debug\PhuongTrinhBacNhat.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
